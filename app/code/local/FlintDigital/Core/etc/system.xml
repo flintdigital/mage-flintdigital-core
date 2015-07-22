@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+ * @category   FlintDigital
+ * @package    FlintDigital Core
+ * @author     Adrian Esquivel <adrian@flintdigital.com>
+-->
+<config>
+    <tabs>
+        <flintdigital translate="label" module="flintdigital_adwords">
+            <label>Flint Digital</label>
+            <sort_order>10</sort_order>
+        </flintdigital>
+    </tabs>
+</config>

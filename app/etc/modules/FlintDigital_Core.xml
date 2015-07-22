@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * @category	FlintDigital
+ * @package	FlintDigital_Core
+ * @author	Adrian Esquivel
+ */
+ -->
+<config>
+    <modules>
+        <FlintDigital_Core>
+            <active>true</active>
+            <codePool>local</codePool>
+        </FlintDigital_Core>
+    </modules>
+</config> 

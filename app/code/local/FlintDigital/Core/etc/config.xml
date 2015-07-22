@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+ *
+ * @category   FlintDigital
+ * @package    FlintDigital Core
+ * @author     Adrian Esquivel <adrian@flintdigital.com>
+-->
+<config>
+    <modules>
+        <FlintDigital_Core>
+            <version>2.0.0</version>
+        </FlintDigital_Core>
+    </modules>
+    <global>
+        <helpers>
+            <flintdigital_core>
+                <class>FlintDigital_Core_Helper</class>
+            </flintdigital_core>
+        </helpers>
+    </global>
+
+</config>

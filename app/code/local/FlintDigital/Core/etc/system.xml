@@ -6,7 +6,7 @@
 -->
 <config>
     <tabs>
-        <flintdigital translate="label" module="flintdigital_adwords">
+        <flintdigital translate="label" module="flintdigital_core">
             <label>Flint Digital</label>
             <sort_order>10</sort_order>
         </flintdigital>

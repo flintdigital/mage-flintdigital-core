@@ -6,4 +6,4 @@ This means that this plugin is required for any other FD plugin that has admin o
 
 ###Modgit Install
 
-` modgit add mage-flintdigital-core git@github.com:flintdigital/mage-flintdigital-core.git `
+` modgit add mage-flintdigital-core git@github.com:flintdigital/mage-mod-core-fd.git `

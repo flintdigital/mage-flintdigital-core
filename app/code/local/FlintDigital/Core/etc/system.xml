@@ -7,7 +7,7 @@
 <config>
     <tabs>
         <flintdigital translate="label" module="flintdigital_core">
-            <label>Flint Digital</label>
+            <label>FD Zebra Settings</label>
             <sort_order>10</sort_order>
         </flintdigital>
     </tabs>
